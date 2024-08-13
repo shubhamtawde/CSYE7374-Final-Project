@@ -1,4 +1,4 @@
-package edu.neu.csye7374.Builder;
+package edu.neu.csye7374.builder;
 
 import edu.neu.csye7374.ticket_model.Ticket;
 import edu.neu.csye7374.ticket_state.TicketContext;
